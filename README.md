@@ -1,6 +1,8 @@
 # Neteflix_Clone
 Netflix Clone Project
-📌 Overview
+
+
+📌 Overview :
 This Netflix Clone is a fully responsive front-end project that replicates the UI of Netflix's homepage. It features a modern, sleek design with a focus on user experience, responsiveness, and smooth animations. Built using HTML and CSS, this project serves as a great foundation for building a streaming service UI.
 
 🚀 Features
